@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>jahiaone-module</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>JahiaOne Module</name>
   <description>This is the custom module (JahiaOne Module) for running on a Jahia xCM server.</description>
