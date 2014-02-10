@@ -17,6 +17,15 @@
     <connection>scm:git:git@github.com:tdraier/jahiaone.git</connection>
     <developerConnection>scm:git:git@github.com:tdraier/jahiaone.git</developerConnection>
   </scm>
+  <distributionManagement>
+    <repository>
+      <id>test</id>
+      <url>https://devtools.jahia.com/nexus/content/repositories/test</url>
+    </repository>
+  </distributionManagement>
+  <properties>
+    <jahia-forge>http://rqa4.jahia.com/jahiatrunkmysql56/sites/forge</jahia-forge>
+  </properties>
   <repositories>
     <repository>
       <releases>
